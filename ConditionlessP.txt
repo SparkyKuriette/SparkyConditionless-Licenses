@@ -22,7 +22,7 @@ The licensor, and if any, the work's contributors, grant to you an irrevocable, 
 
 4. Miscellaneous.
 4.1. Severability and changes.
-If this license is deemed unenforceable, then it shall be changed, to the minimum extent necessary, to have an effect that shall closely approximate or resemble this license; if it cannot be reformed, it shall be severed, and if some of these license terms are severed, then such severed parts shall not affect any other terms of this license.
+If this license is deemed unenforceable, then it shall be changed, to the minimum extent necessary, to have an effect that shall closely approximate or resemble this license; if the license cannot be reformed, such affected license terms shall be severed, and if some of these license terms are severed, then such severed parts shall not affect any other terms of this license.
 4.2. Moral rights.
 Whilst this license does not have an allowance for moral rights, the licensor, and if any, the contributors agree, to the maximum amount necessary, to avoid asserting any moral rights to allow you to use the works, but not in any other case.
 
