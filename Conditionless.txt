@@ -1,0 +1,27 @@
+SparkyConditionless Version 1.
+License of this license's text: The license may be modified and shared, but the license name must be changed if the license text is modified; in the case of translations of the licence, if the translation and original English version differ in meaning, then the original English version takes precedence.
+
+Legal text:
+1. Definitions:
+You, your, yours, yourself: Legal entity using or accessing the work.
+Licensor: Legal entity licensing the work.
+Work: The licensed work.
+Contributor: Legal entity contributing to the work.
+This license: Version 1 of the SparkyConditionless license otherwise known as SparkyConditionless, version 1.
+
+2. Limitation of liability:
+2.1. Except as judged in local court, or in accordance with local law, the work has no warranty, either expressed or implied, and is as-is and as-available.
+2.2. In no legal theory, tort or otherwise, will the licensor be liable for any damages caused by the work.
+2.3. Where either, or both, of these disclaimers are not allowed, these do not apply to you in such a case.
+
+3. Permission grant.
+3.1. Copyright grant.
+The licensor, and if any, the work's contributors, grant to you an irrevocable, non-exclusive, royalty-free, worldwide allowance to use, share, modify and share modified versions of the work, whether with or without monetary gain, for any purpose, without any conditions, unless if such conditions are required by local law.
+
+4. Miscellaneous.
+4.1. Severability and changes.
+If this license is deemed unenforceable, then it shall be changed, to the minimum extent necessary, to have an effect that shall closely approximate or resemble this license; if the license cannot be reformed, such affected license terms shall be severed, and if some of these license terms are severed, then such severed parts shall not affect any other terms of this license.
+4.2. Moral rights.
+Whilst this license does not have an allowance for moral rights, the licensor, and if any, the contributors agree, to the maximum amount necessary, to avoid asserting any moral rights to allow you to use the works, but not in any other case.
+
+End of the license
