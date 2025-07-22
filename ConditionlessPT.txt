@@ -18,9 +18,9 @@ This license: Version 1 of the SparkyConditionless license with a patent and tra
 3.1. Copyright grant.
 The licensor, and if any, the work's contributors, grant to you an irrevocable, non-exclusive, royalty-free, worldwide allowance to use, share, modify and share modified versions of the work, whether with or without monetary gain, for any purpose, without any conditions, unless if such conditions are required by local law.
 3.2. Patent grant.
-The licensor, and if any, the work's contributors, grant to you an irrevocable, non-exclusive, royalty-free, worldwide allowance, under any patent or patent application, current or future, to use, share, modify and share modify versions of the work, whether with or without monetary gain, even if using, sharing, modifying or modification sharing the work would be considered patent infringement.
+The licensor, and if any, the work's contributors, grant to you an irrevocable, non-exclusive, royalty-free, worldwide allowance, under any patent or patent application, current or future, to use, share, modify and share modify versions of the work, whether with or without monetary gain, even if using, sharing, modifying, or sharing of modifications of the work would be considered patent infringement.
 3.3. Trademark grant.
-The licensor, and if any, the work's contributors, grant to you an irrevocable, non-exclusive, royalty-free, worldwide allowance, under any trademark or trademark application, current or future, to use, share, modify and share modify versions of the work, whether with or without monetary gain, even if the using, sharing, modifying or modification sharing of the work would be considered trademark infringement.
+The licensor, and if any, the work's contributors, grant to you an irrevocable, non-exclusive, royalty-free, worldwide allowance, under any trademark or trademark application, current or future, to use, share, modify and share modify versions of the work, whether with or without monetary gain, even if the using, sharing, modifying, or sharing of modifications of the work would be considered trademark infringement.
 
 4. Miscellaneous.
 4.1. Severability and changes.
