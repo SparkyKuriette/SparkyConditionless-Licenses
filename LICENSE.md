@@ -1,0 +1,1 @@
+The README and this LICENSE.MD file is licenced under the SparkyConditionless licences (your choice), while the licences themselves have almost no restrictions, except for the fact that you must rename the licences if you change them.
